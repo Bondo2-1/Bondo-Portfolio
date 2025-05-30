@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://Bondo2-1.github.io/Bondo-Portfolio/",
+  "homepage": "https://Bondo2-1.github.io/Bondo-Portfolio",
   "private": true,
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
     "start": "react-router-serve ./build/server/index.js",
     "typecheck": "react-router typegen && tsc",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@react-router/node": "^7.5.3",
