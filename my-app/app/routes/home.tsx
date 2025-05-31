@@ -43,7 +43,7 @@ export default function Home() {
                 <a href="/contact" className="px-8 py-3 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full text-white font-medium hover:shadow-lg hover:shadow-purple-500/20 transition-all duration-300">
                   Get in Touch
                 </a>
-                <a href="/projects" className="px-8 py-3 border border-purple-500/30 rounded-full text-purple-400 font-medium hover:bg-purple-500/10 transition-all duration-300">
+                <a href="/services" className="px-8 py-3 border border-purple-500/30 rounded-full text-purple-400 font-medium hover:bg-purple-500/10 transition-all duration-300">
                   View Projects
                 </a>
               </div>
